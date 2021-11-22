@@ -1,3 +1,3 @@
 # cubestack
 
-![]cube.gif
+![](cube.gif)
